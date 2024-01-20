@@ -5,4 +5,7 @@ react notes app
 
 
 npm install
+
+
+
 npm start
